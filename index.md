@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Computer Science at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), where I am fortunate to be supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Prior to joining CISPA, I received my Master’s degree in _Cryptography_ from the [Middle East Technical University (METU)](https://www.metu.edu.tr), Turkey, where I also served as a Research Assistant. I hold a Bachelor's degree in _Mathematics_, which I completed _summa cum laude_.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My academic interests include, but are not limited to, the following areas:
+- **Provable Security** 
+- **Cryptographic Analysis of Protocols** 
+- **Key Exchange and Secure Messaging** 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- It is a bit cold and lonely here, good things take time :,)
 
 {% include_relative _includes/publications.md %}
 
