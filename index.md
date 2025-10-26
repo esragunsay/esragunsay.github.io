@@ -16,7 +16,7 @@ My academic interests include, but are not limited to, the following areas:
 
 ## News
 
-- It is a bit cold and lonely here, good things take time :,)
+- Nothing to show.
 
 {% include_relative _includes/publications.md %}
 

@@ -2,7 +2,7 @@
 title: Esra Günsay
 position: Ph.D. Student
 affiliation: CISPA Helmholtz Center for Information Security
-email: esra.guensay (at) cispa.de
+email: esra(dot)guensay (at) cispa(dot)de
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,7 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=k4fL1DEAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
 twitter: https://x.com/yasnugarse
 
