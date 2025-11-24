@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Science at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), where I am fortunate to be supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Prior to joining CISPA, I received my Master’s degree in _Cryptography_ from the [Middle East Technical University (METU)](https://www.metu.edu.tr), Turkey, where I also served as a Research Assistant. I hold a Bachelor's degree in _Mathematics_, which I completed _summa cum laude_.
+I am a Ph.D. student in Computer Science at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), supervised by [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). Prior to joining CISPA, I received my Master’s degree in _Cryptography_ from the [Middle East Technical University (METU)](https://www.metu.edu.tr), Turkey, where I also served as a Research Assistant. I hold a Bachelor's degree in _Mathematics_, which I completed _summa cum laude_.
 
 
 ## Research Interests
