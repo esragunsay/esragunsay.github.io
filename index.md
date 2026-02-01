@@ -16,7 +16,7 @@ My academic interests include, but are not limited to, the following areas:
 
 ## News
 
-- Nothing to show.
+- I'll be presenting my first PhD project at [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/)!
 
 {% include_relative _includes/publications.md %}
 

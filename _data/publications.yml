@@ -2,8 +2,8 @@ main:
 
   - title: ETK External-Operations TreeKEM and the Security of MLS in RFC 9420
     authors: Cas Cremers, <strong>Esra Günsay</strong>, Vera Wesselkamp, Mang Zhao 
-    conference_short: eprint
-    conference: Under submission, 2025.
+    conference_short: Eurocrypt26
+    conference: Eurocrypt, 2026.
     pdf: https://eprint.iacr.org/2025/229.pdf
     bibtex: https://dblp.org/rec/journals/iacr/CremersGWZ25.html?view=bibtex
     image: ./assets/img/mls_externaloperations_figure.png
