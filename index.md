@@ -17,6 +17,7 @@ My academic interests include, but are not limited to, the following areas:
 ## News
 
 - I'll be presenting my first PhD project at [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/)!
+- I'll be visiting [Prof. Mang Zhao](https://mang-zhao.com) at Wuhan University between March 09 and April 17, 2026.
 
 {% include_relative _includes/publications.md %}
 
