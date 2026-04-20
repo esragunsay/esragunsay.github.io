@@ -1,5 +1,12 @@
 ## Academic Activities
  
+<h4 style="margin:0 10px 0;">Service (Sub-Reviewer)</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>Usenix Security 2026</autocolor></li>
+  <li><autocolor>IEEE S&P 2026</autocolor></li>
+  <li><autocolor>ACM CCS 2025</autocolor></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Teaching (Teaching Assistant)</h4>
 
