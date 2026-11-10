@@ -1,5 +1,11 @@
 main:
 
+  - title: Complete Secure Messaging Modularizing and Analyzing Multi-Device Signal 
+    authors: Daniel Collins, <strong>Esra Günsay</strong>, Mang Zhao 
+    conference_short: under submission
+    conference: under submission.
+    image: ./assets/img/cSM-figure.png
+  
   - title: ETK External-Operations TreeKEM and the Security of MLS in RFC 9420
     authors: Cas Cremers, <strong>Esra Günsay</strong>, Vera Wesselkamp, Mang Zhao 
     conference_short: Eurocrypt26
